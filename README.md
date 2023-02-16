@@ -4,7 +4,7 @@ This utility genertae image mocks with these providers
 - https://via.placeholder.com/
 - https://picsum.photos/
 
-You need atleast to provide a width for each breakpoint(desktop, tablet, mobile) and a default aspect ratio.
+You need to provide at least a width for each breakpoint (desktop, tablet, mobile) and a default aspect ratio.
 You can aswell provide different aspect ratios for each breakpoint and choose from either via.placeholder images with black or white background or fancy images from picsum. See examples
 
 The script always generates a url with 2x width for retina displays
