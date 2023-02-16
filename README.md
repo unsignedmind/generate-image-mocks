@@ -1,6 +1,6 @@
 # generate-image-mocks
 
-This utility genertae image mocks with these providers
+This utility generates image mocks with these providers
 - https://via.placeholder.com/
 - https://picsum.photos/
 
